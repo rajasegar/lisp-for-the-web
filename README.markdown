@@ -1,7 +1,7 @@
 # lisp-for-the-web
 
-[Blogpost](https://dev.to/rajasegar/lisp-for-the-web-5-13ca)
-[Demo](https://lisp-for-the-web.herokuapp.com)
+- [Blogpost](https://dev.to/rajasegar/lisp-for-the-web-5-13ca)
+- [Demo](https://lisp-for-the-web.herokuapp.com)
 
 ## Usage
 ```lisp
